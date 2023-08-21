@@ -4,9 +4,9 @@
 - Slimefun
 - GuizhanLibPlugin
 - SlimeCustomizer
+- ExoticGarden
  ## 版本
 - Mc：1.16.5+
-- SlimeCustomizer：≥16版本
  ## 联系
 - QQ：3095540162
 - （可以定制自定义）
