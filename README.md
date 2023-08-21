@@ -1,4 +1,4 @@
-# SarFallFood（星落食物）
+# StarFallFood（星落食物）
  星落食物是通过SlimeCustomizer插件写成的一份配置文件
 ## 前置插件
 - Slimefun
